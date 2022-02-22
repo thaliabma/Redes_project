@@ -14,12 +14,9 @@
 - [Tecnologias](#tecnologias)
   <!--te-->
 
-<h6 align="center">
   <img alt="CodigoRodando" title="#img1" src="./assets/img1.png" />
-</h6>
-<h6 align="center">
   <img alt="CodigoRodando" title="#img2" src="./assets/img2.png" />
-</h6>
+
   #How to run
 
 1- You'll have to install the latest version of Python in your terminal if it's not installed yet.
