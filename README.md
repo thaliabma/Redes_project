@@ -1,16 +1,6 @@
 <h1 align="center">Chat PAPOEMDIA</h1>
 
-<p align="center">Chat colorido e divertido, que armazena as conversas antigas estilo Discord!</p>
-
-<!--ts-->
-
-<!-- - [About](#Sobre)
-- [How it works](#como-usar)
-  - [Install](#pre-requisitos)
-  - [How to run](#how-to-run)
-- [Considerations](#consideracoes)
-- [Tecnologies](#tecnologias) -->
-  <!--te-->
+<p align="center">Colorful and fun chat, made with sockets for Computer Networks!</p>
 
   <img alt="CodigoRodando" title="#img" src="./assets/img.png"/>
 
