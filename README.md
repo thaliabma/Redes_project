@@ -14,7 +14,7 @@
 - [Tecnologias](#tecnologias)
   <!--te-->
 
-  <img alt="CodigoRodando" title="#img" src="./assets/img.png" />
+  <img alt="CodigoRodando" title="#img" src="./assets/img.png"  width = 16px/>
 
   #How to run
 
