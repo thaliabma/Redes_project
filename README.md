@@ -1,6 +1,6 @@
 <h1 align="center">Chat PAPOEMDIA</h1>
 
-<p align="center">Colorful and fun chat, made with sockets for Computer Networks!</p>
+<p align="center">Colorful and fun chat, made with sockets!</p>
 
   <img alt="CodigoRodando" title="#img" src="./assets/img.png"/>
 
