@@ -14,9 +14,9 @@
 - [Tecnologias](#tecnologias)
   <!--te-->
 
-  <img alt="CodigoRodando" title="#img1" src="./assets/img1.png"  width = 600px  height = 600px/>
-  <img alt="CodigoRodando" title="#img2" src="./assets/img2.png"  width = 400px height = 600px/>
-  #How to run
+  <img alt="CodigoRodando" title="#img" src="./assets/img.png"/>
+
+<h1>How to run</h1>
 
 1- You'll have to install the latest version of Python in your terminal if it's not installed yet.
 
