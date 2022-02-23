@@ -21,27 +21,27 @@ You'll have to install the latest version of Python in your terminal if it's not
 ```
 
 <h2>How to run</h2>
-<h4>1- You have to run the server</h4>
-In Powershell
+<h3>1°- You have to run the server</h3>
+In Powershell:
 
 ```
 python server.py
 ```
 
-In WSL
+In WSL:
 
 ```
 python3 server.py
 ```
 
-<h4>2- Now open a new terminal and it's time to connect a client, you can connect as much clients as you want</h4>
-In Powershell
+<h3>2°- Now open a new terminal and it's time to connect a client, you can connect as much clients as you want</h3>
+In Powershell:
 
 ```
 python client.py
 ```
 
-In WSL
+In WSL:
 
 ```
 python3 client.py
